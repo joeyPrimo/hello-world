@@ -2,4 +2,4 @@
 
 Hello,
 
-My name is Joe. I'm a professional graphic designer and motion graphics animator. I just went through a web development cert program at my local technical college. I've really found a love for development and programing. I'm looking to continue to develop my skills as well as expend into new areas. 
+My name is Joe. I'm a professional graphic/motion graphics designer. I've been both teaching myself, and taking classes on front end web development for a couple years. My goal is to become a React developer. 
